@@ -4,4 +4,4 @@
 
 🔭 Currently working on web development
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielhsdev&theme=transparent&hide_border=true&border_radius=0.9&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielhsdev)](https://git.io/streak-stats)
