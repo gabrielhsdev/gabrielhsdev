@@ -2,4 +2,4 @@
 
 📫 How to reach me: https://www.linkedin.com/in/gabrielhenriquedev/
 
-🔭 Currently working on web development
+🔭 Currently working on software development
