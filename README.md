@@ -1,7 +1,8 @@
 # Hello, I'm [Gabriel Henrique]
 
-👋 Welcome to my GitHub profile! I'm a software developer based in Brazil, working remotely for Ireland. I specialize in backend development, with a focus on PHP, Java, Flask, and JavaScript. Additionally, I have experience with front-end technologies. My expertise includes:
+👋 Welcome to my GitHub profile! I'm a software developer based in Brazil, working remotely for Ireland. I specialize in backend development, with a focus on PHP, and JavaScript. Additionally, I have experience with front-end technologies.
 
+## I have projects with
 - **Languages**: PHP, JavaScript (Node.js), HTML, CSS, Bootstrap, jQuery, MySQL, Java, C++
 - **Frameworks and Libraries**: React.js, React Native, Chakra UI, Flask
 - **API Experience**: Building and consuming APIs
