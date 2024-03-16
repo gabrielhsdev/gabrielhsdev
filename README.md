@@ -13,8 +13,6 @@ I'm a versatile software developer passionate about crafting robust solutions wi
 - **Database**: MySQL, Firebase, SQLite
 - **API Experience**: RESTful API development and consumption
 
-## GitHub Stats 📊
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsdev&layout=compact)
 
 ## Contact 📬
