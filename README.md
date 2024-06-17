@@ -1,17 +1,29 @@
 # Hello, I'm Gabriel Henrique! 👨‍💻
 
-👋 Welcome to my GitHub profile! I'm a software developer based in Brazil, passionate about creating innovative solutions with cutting-edge technologies.
+👋 Welcome to my GitHub profile! I'm a passionate software developer based in Brazil, dedicated to creating innovative solutions with cutting-edge technologies.
 
-## Summary 🚀
+## About Me 🚀
 
-I'm a versatile software developer passionate about crafting robust solutions with a diverse tech stack. Proficient in languages like PHP, JavaScript (Node.js, TypeScript), Python, and experienced in building intuitive and scalable applications using my skills.
+I'm a versatile software developer with a strong passion for crafting robust solutions across various technologies. I thrive in environments that challenge me to apply my skills creatively.
 
 ## Key Skills 💼
 
-- **Languages**: PHP, JavaScript, Typescript, NodeJS, Python, Java, C++
-- **Frameworks and Libraries**: React.js, Next.js, Tailwind CSS, Chakra UI, Flask, Docker
+- **Languages**: PHP, JavaScript TypeScript, Python, C++
+- **Frameworks and Libraries**: React.js, Next.js, Laravel, MUI, Tailwind CSS
 - **Database**: MySQL, Firebase, SQLite
-- **API Experience**: RESTful API development and consumption
+- **Other Technologies**: HTML, CSS, Bootstrap, Flask, Docker, JEST, Vitest
+
+## Projects and Experience 🔧
+
+- Developed applications using React.js, Next.js,  Laravel, PHP, C++, Python
+- Proficient in building responsive interfaces with Tailwind CSS and Bootstrap.
+- Experienced in backend development with Laravel, PHP, and Python frameworks like Flask.
+- Familiar with database management systems including MySQL, Firebase, and SQLite.
+- Skilled in API development and integration, focusing on RESTful architecture.
+
+## Interests 🌟
+
+I have a keen interest in C++ and Python programming languages, constantly exploring new ways to leverage them in software development.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsdev&layout=compact)
 
