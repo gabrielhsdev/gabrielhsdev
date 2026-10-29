@@ -10,5 +10,3 @@
 - LinkedIn: https://www.linkedin.com/in/gabrielhenriquedev/
 - GitHub: https://github.com/gabrielhsdev
 - Email: henriquegabrielhs21@gmail.com
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsdev&layout=compact)
